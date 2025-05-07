@@ -1,0 +1,22 @@
+{
+  "name": "xmr-price-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheesits456/XMR-Price-Checker.git"
+  },
+  "author": "cheesits456",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/cheesits456/XMR-Price-Checker/issues"
+  },
+  "homepage": "https://github.com/cheesits456/XMR-Price-Checker#readme",
+  "dependencies": {
+    "axios": "^1.9.0"
+  }
+}
